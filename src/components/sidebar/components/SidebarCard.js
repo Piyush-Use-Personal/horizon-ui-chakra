@@ -62,11 +62,11 @@ return <></>
           px='10px'
           mb='6px'
           textAlign='center'>
-          Improve your development process and start doing more with Horizon UI
+          Improve your development process and start doing more with Protect UI
           PRO!
         </Text>
       </Flex>
-      <Link href='https://horizon-ui.com/pro?ref=horizon-chakra-free'>
+      <Link href='https://Protect-ui.com/pro?ref=Protect-chakra-free'>
         <Button
           bg='whiteAlpha.300'
           _hover={{ bg: "whiteAlpha.200" }}

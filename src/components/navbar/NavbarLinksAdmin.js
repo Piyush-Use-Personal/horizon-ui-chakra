@@ -143,7 +143,7 @@ export default function HeaderLinks(props) {
               borderRadius="8px"
               mb="10px"
             >
-              <ItemContent info="Horizon UI Dashboard PRO" />
+              <ItemContent info="Protect UI Dashboard PRO" />
             </MenuItem>
             <MenuItem
               _hover={{ bg: 'none' }}
@@ -152,7 +152,7 @@ export default function HeaderLinks(props) {
               borderRadius="8px"
               mb="10px"
             >
-              <ItemContent info="Horizon Design System Free" />
+              <ItemContent info="Protect Design System Free" />
             </MenuItem>
           </Flex>
         </MenuList>
@@ -182,14 +182,14 @@ export default function HeaderLinks(props) {
         >
           <Image src={navImage} borderRadius="16px" mb="28px" />
           <Flex flexDirection="column">
-            <Link w="100%" href="https://horizon-ui.com/pro">
+            <Link w="100%" href="https://Protect-ui.com/pro">
               <Button w="100%" h="44px" mb="10px" variant="brand">
-                Buy Horizon UI PRO
+                Buy Protect UI PRO
               </Button>
             </Link>
             <Link
               w="100%"
-              href="https://horizon-ui.com/documentation/docs/introduction"
+              href="https://Protect-ui.com/documentation/docs/introduction"
             >
               <Button
                 w="100%"
@@ -204,7 +204,7 @@ export default function HeaderLinks(props) {
             </Link>
             <Link
               w="100%"
-              href="https://github.com/horizon-ui/horizon-ui-chakra-ts"
+              href="https://github.com/Protect-ui/Protect-ui-chakra-ts"
             >
               <Button
                 w="100%"
@@ -213,7 +213,7 @@ export default function HeaderLinks(props) {
                 color={textColor}
                 bg="transparent"
               >
-                Try Horizon Free
+                Try Protect Free
               </Button>
             </Link>
           </Flex>
